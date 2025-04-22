@@ -95,4 +95,7 @@
 この儀式は、Ravensgateにおける魔術の透明性と地産地消の思想に基づいています。  
 形式よりも「感謝の意志」が最も重要であることを忘れずに。
 
-# ganesha_gratitude
+---
+
+© 2025 Ravensgate-Tux  
+この文書は [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) にて公開されています。
